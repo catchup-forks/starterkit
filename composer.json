@@ -30,7 +30,7 @@
         "doctrine/dbal": "^2.6@dev",
         "laravelcollective/html": "~5.0",
         "yajra/laravel-datatables-oracle": "~6.0",
-        "yaap/theme": "dev-laravel-5.1",
+        "yaap/theme": "dev-master",
         "pingpong/modules": "~2.0",
         "barryvdh/laravel-ide-helper": "^2.0@dev",
         "barryvdh/laravel-debugbar": "^2.0@dev",
