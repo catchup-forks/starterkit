@@ -272,7 +272,7 @@ return [
         App\Providers\RouteServiceProvider::class,
         App\Providers\MenuBuilderServiceProvider::class,
 
-        Sroutier\EloquentLDAP\Providers\EloquentLDAPServiceProvider::class,
+        //Sroutier\EloquentLDAP\Providers\EloquentLDAPServiceProvider::class,
 
         Barryvdh\Debugbar\ServiceProvider::class,
         Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
@@ -280,9 +280,9 @@ return [
         Laracasts\Flash\FlashServiceProvider::class,
         YAAP\Theme\ThemeServiceProvider::class,
         Zizaco\Entrust\EntrustServiceProvider::class,
-        Zofe\Rapyd\RapydServiceProvider::class,
+        //Zofe\Rapyd\RapydServiceProvider::class,
         Baum\Providers\BaumServiceProvider::class,
-        Sroutier\L51ESKModules\ModulesServiceProvider::class,
+        //Sroutier\L51ESKModules\ModulesServiceProvider::class,
 
     ],
 

@@ -1,5 +1,5 @@
 <?php
-
+/*
 //dataform routing
 Burp::post(null, 'process=1', array('as'=>'save', function() {
     BurpEvent::queue('dataform.save');
@@ -18,6 +18,10 @@ Burp::get(null, 'ord=(-?)(\w+)', array('as'=>'orderby', function($direction, $fi
 
 
 Route::get('rapyd-ajax/{hash}', array('as' => 'rapyd.remote', 'uses' => '\Zofe\Rapyd\Controllers\AjaxController@getRemote'));
+*/
+
+
+
 
 // Uncomment to enable the demo route.
 //Route::controller('rapyd-demo', '\Zofe\Rapyd\Demo\DemoController');
